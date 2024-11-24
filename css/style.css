@@ -1,0 +1,15 @@
+/* general rules */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header */
+.header {
+    border: 2px solid;
+    background-color: rgb(134, 134, 247);
+    height: 200px;
+}
+.container-header {
+
+}
