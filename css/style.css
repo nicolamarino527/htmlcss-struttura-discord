@@ -6,10 +6,28 @@
 }
 /* header */
 .header {
-    border: 2px solid;
     background-color: rgb(134, 134, 247);
-    height: 200px;
+    height: 100px;
+    /* debug */
+    border: 2px solid;
 }
 .container-header {
-
+    height: 50px;
+    margin: 20px 250px 0px 250px;
+    /* debug */
+    background-color: rgb(62, 62, 158);
+}
+#hero {
+    height: 500px;
+    /* debug */
+    background-color: rgb(93, 93, 111);
+    border: 2px solid;
+}
+#container-hero {
+    height: 400px;
+    margin: 40px 400px 40px 400px;
+    
+    /* debug */
+    background-color: rgb(71, 71, 188);
+    border: 2px solid;
 }
